@@ -6,12 +6,12 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
 | --- | --- | --- | --- | --- |
-| Hasbi Anshari Simbolon| Startup Campus, AI Track | hasbianshrismbln1411@gmail.com | [link](www.linkedin.com/in/hasbiansharisimbolon) | Team Lead |
-| Aldona Septiana | Startup Campus, AI Track | aldonaseptiana19@gmail.com | [link]() | Team Member |
-| Satriawan Adinugroho | Startup Campus, AI Track | satriawan2210@gmail.com | [link]() | Team Member |
-| M. Saifuddin Eka N | Startup Campus, AI Track | masoodinc1@gmail.com | [link]() | Team Member |
-| Amin Ridho A | Startup Campus, AI Track | ... | [link]() | Team Member |
-| Feni Fitriani | Startup Campus, AI Track | ... | [link]() | Team Member |
+| Hasbi Anshari Simbolon| Politeknik Ganesha Medan | hasbianshrismbln1411@gmail.com | [link](www.linkedin.com/in/hasbiansharisimbolon) | Team Lead |
+| Aldona Septiana | Universitas Amikom Purwokerto | aldonaseptiana19@gmail.com | [link]() | Team Member |
+| Satriawan Adinugroho | Universitas Mercu Buana Yogyakarta | satriawan2210@gmail.com | [link]() | Team Member |
+| M. Saifuddin Eka N | Universitas Sebelas Maret| masoodinc1@gmail.com | [link]() | Team Member |
+| Amin Ridho A | Politeknik Negeri Sriwijaya | aminridhoa@gmail.com | [link]() | Team Member |
+| Feni Fitriani | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | ... | [link]() | Team Member |
 | Aries Fitriawan | Startup Campus, AI Track | aries.f1991@gmail.com | [link](https://www.linkedin.com/in/ariesfitriawan/) | Supervisor |
 
 ## Setup
