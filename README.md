@@ -6,13 +6,13 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
 | --- | --- | --- | --- | --- |
-| Hasbi Anshari Simbolon| Startup Campus, AI Track | hasbianshrismbln1411@gmail.com | www.linkedin.com/in/hasbiansharisimbolon | Team Lead |
-| Aldona Septiana | Startup Campus, AI Track | aldonaseptiana19@gmail.com | ... | Team Member |
-| Satriawan Adinugroho | Startup Campus, AI Track | ... | ... | Team Member |
-| M. Saifuddin Eka N | Startup Campus, AI Track | masoodinc1@gmail.com | ... | Team Member |
-| Amin Ridho A | Startup Campus, AI Track | ... | ... | Team Member |
-| Feni Fitriani | Startup Campus, AI Track | ... | ... | Team Member |
-| Nicholas Dominic | Startup Campus, AI Track | nic.dominic@icloud.com | [link](https://linkedin.com/in/nicholas-dominic) | Supervisor |
+| Hasbi Anshari Simbolon| Startup Campus, AI Track | hasbianshrismbln1411@gmail.com | [link](www.linkedin.com/in/hasbiansharisimbolon) | Team Lead |
+| Aldona Septiana | Startup Campus, AI Track | aldonaseptiana19@gmail.com | [link]() | Team Member |
+| Satriawan Adinugroho | Startup Campus, AI Track | satriawan2210@gmail.com | [link]() | Team Member |
+| M. Saifuddin Eka N | Startup Campus, AI Track | masoodinc1@gmail.com | [link]() | Team Member |
+| Amin Ridho A | Startup Campus, AI Track | ... | [link]() | Team Member |
+| Feni Fitriani | Startup Campus, AI Track | ... | [link]() | Team Member |
+| Aries Fitriawan | Startup Campus, AI Track | nic.dominic@icloud.com | [link](https://linkedin.com/in/nicholas-dominic) | Supervisor |
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
