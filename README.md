@@ -12,7 +12,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | M. Saifuddin Eka N | Startup Campus, AI Track | masoodinc1@gmail.com | [link]() | Team Member |
 | Amin Ridho A | Startup Campus, AI Track | ... | [link]() | Team Member |
 | Feni Fitriani | Startup Campus, AI Track | ... | [link]() | Team Member |
-| Aries Fitriawan | Startup Campus, AI Track | nic.dominic@icloud.com | [link](https://linkedin.com/in/nicholas-dominic) | Supervisor |
+| Aries Fitriawan | Startup Campus, AI Track | aries.f1991@gmail.com | [link](https://www.linkedin.com/in/ariesfitriawan/) | Supervisor |
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
