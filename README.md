@@ -1,4 +1,4 @@
-# FINAL PROJECT TITLE HERE
+# Emotion Detection for Good Mental Health with---
 
 ## Project Description
 Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
