@@ -72,9 +72,9 @@ Feel free to adjust the columns in the table below.
 
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | val_f1 | note | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| roberta | 20 |  2e-5 | 64 | AdamW | 0.249 | 88.34% | 84.15% | ... | ... |
-| bert | 7 | 2e-5 | 16 | AdamW | 0.041 | 90.19% | 87.55% | ... | ... |
-| Svm (OnevsRest) | - | - | - | - | - | 0.81 | 0.75 | 0.78 | Kernel: linear, C: 10, gamma: 0.1 |
+| roberta | 20 |  2e-5 | 64 | AdamW | 0.221 | 84% | 85% | 85% | ... |
+| bert | 7 | 2e-5 | 16 | AdamW | 0.173 | 87% | 85% | 86% | ... |
+| Svm (OnevsRest) | - | - | - | - | - | 81% | 75% | 78% | Kernel: linear, C: 10, gamma: 0.1 |
 
 #### 2. Ablation Study
 Any improvements or modifications of your base model, should be summarized in this table. Feel free to adjust the columns in the table below.
