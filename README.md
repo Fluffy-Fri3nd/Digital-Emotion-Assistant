@@ -16,21 +16,28 @@ Please describe your Startup Campus final project here. You may should your <b>m
 
 ## Setup
 ### Prerequisite Packages (Dependencies)
-- pandas==2.1.0
-- openai==0.28.0
-- google-cloud-aiplatform==1.34.0
-- google-cloud-bigquery==3.12.0
-- ...
-- ...
+- pandas
+- numpy
+- re
+- BeautifulSoup
+- metrics
+- openai
+- torch
+- BerTokenizer
+- AutoTokenizer
+- transformers
+
 
 ### Environment
 | | |
 | --- | --- |
-| CPU | Example: Apple M3 Pro 12-core CPU |
-| GPU | Example: Nvidia A100 (x1) |
-| ROM | Example: 1 TB SSD |
-| RAM | Example: 36 GB |
-| OS | Example: macOS Sonoma v14.1.1 |
+| CPU | Google Colaboratory |
+| GPU | Python 3 Google Compute Engine backend |
+| ROM | - |
+| RAM | 15 GB |
+| OS | - |
+
+note : Google Colaboratory
 
 ## Dataset
 Describe your dataset information here. Provide a screenshot for some of your dataset samples (for example, if you're using CIFAR10 dataset, then show an image for each class).
@@ -52,11 +59,11 @@ Inform your model validation performances, as follows:
 
 Feel free to adjust the columns in the table below.
 
-| model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | ... |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| vit_b_16 | 1000 |  0.0001 | 32 | Adam | 0.093 | 88.34% | 84.15% | ... |
-| vit_l_32 | 2500 | 0.00001 | 128 | SGD | 0.041 | 90.19% | 87.55% | ... |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | 
+| model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | val_f1 | note | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| roberta | 20 |  2e-5 | 64 | AdamW | 0.249 | 88.34% | 84.15% | ... | ... |
+| bert | 7 | 2e-5 | 16 | AdamW | 0.041 | 90.19% | 87.55% | ... | ... |
+| Svm (OnevsRest) | - | - | - | - | - | 0.81 | 0.75 | 0.78 | Kernel: linear, C: 10, gamma: 0.1 |
 
 #### 2. Ablation Study
 Any improvements or modifications of your base model, should be summarized in this table. Feel free to adjust the columns in the table below.
