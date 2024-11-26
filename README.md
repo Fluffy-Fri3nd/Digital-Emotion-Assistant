@@ -41,7 +41,18 @@ note : Google Colaboratory
 
 ## Dataset
 Describe your dataset information here. Provide a screenshot for some of your dataset samples (for example, if you're using CIFAR10 dataset, then show an image for each class).
-- Link: https://...
+- Sumber Dataset: Dataset GoEmotions dari Kaggle(https://www.kaggle.com/datasets/debarshichanda/goemotions)
+  Deskripsi : GoEmotions adalah kumpulan data berisi 58.009 komentar yang dikurasi dengan hati-hati dari Reddit, dilabeli secara manual ke dalam 27 kategori emosi. Dataset ini dikembangkan untuk analisis emosi dalam teks pendek dengan panjang maksimal 30 kata.
+- Kategori yang Dipilih dalam final projek ini:
+- Dari 27 label emosi asli, kami menggunakan subset dari 6 kategori berikut:
+  - Caring (Peduli)
+  - Love (Cinta)
+  - Gratitude (Rasa Syukur)
+  - Sadness (Kesedihan)
+  - Fear (Ketakutan)
+  - Anger (Kemarahan)
+- Contoh Format Dataset
+![image](https://github.com/user-attachments/assets/659cd184-3da3-4b98-babf-5bd0d7c3e01a)
 
 ## Results
 ### Model Performance
