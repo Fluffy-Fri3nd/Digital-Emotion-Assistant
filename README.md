@@ -98,6 +98,9 @@ Insert an image regarding your training and evaluation performances (especially 
 
 ### Testing
 Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
+-Model Bert
+![WhatsApp Image 2024-11-26 at 19 45 14_ccf73a68](https://github.com/user-attachments/assets/f995b5ea-4a86-47a7-bb6a-4e6380b295ee)
+
 
 ### Deployment (Optional)
 Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
