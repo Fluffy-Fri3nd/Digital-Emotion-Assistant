@@ -74,7 +74,7 @@ Feel free to adjust the columns in the table below.
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | val_f1 | note | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | roberta | 20 |  2e-5 | 64 | AdamW | 0.221 | 84% | 85% | 85% | ... |
-| bert | 5 | 2e-5 | 8 | AdamW | 0.173 | 87% | 85% | 86% | ... |
+| bert | 5 | 2e-5 | 8 | AdamW | 0.170 | 84% | 82% | 83% | ... |
 | Svm (OnevsRest) | - | - | - | - | - | 81% | 75% | 78% | Kernel: linear, C: 10, gamma: 0.1 |
 
 #### 2. Ablation Study
@@ -83,7 +83,7 @@ Any improvements or modifications of your base model, should be summarized in th
 | model | embedding_type | encoder | attention_layer | dropout | val_acc |
 | --- | --- | --- | --- | --- | --- |
 | roberta | RoBERTa embeddings | RoBERTa | yes | - | 85% |
-| bert | pre-trained bert | transformer encoder |yes | 0.3 | 95% |
+| bert | pre-trained bert | transformer encoder |yes | 0.5 | 95% |
 | Svm (OnevsRest) | TF-IDF | SVM (One-vs-Rest) | - | - | 72% |
 
 
