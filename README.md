@@ -74,7 +74,7 @@ Feel free to adjust the columns in the table below.
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | val_f1 | note | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | roberta | 20 |  2e-5 | 64 | AdamW | 0.221 | 84% | 85% | 85% | ... |
-| bert | 7 | 2e-5 | 16 | AdamW | 0.173 | 87% | 85% | 86% | ... |
+| bert | 5 | 2e-5 | 8 | AdamW | 0.173 | 87% | 85% | 86% | ... |
 | Svm (OnevsRest) | - | - | - | - | - | 81% | 75% | 78% | Kernel: linear, C: 10, gamma: 0.1 |
 
 #### 2. Ablation Study
