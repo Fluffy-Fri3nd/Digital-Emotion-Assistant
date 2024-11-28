@@ -90,7 +90,8 @@ Any improvements or modifications of your base model, should be summarized in th
 #### 3. Training/Validation Curve
 Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
 - Model Bert
-  ![WhatsApp Image 2024-11-26 at 19 11 16_5c1dc2a0](https://github.com/user-attachments/assets/486b3391-70db-4fc8-a95e-5e28a0bf81a7)
+  ![image](https://github.com/user-attachments/assets/ecbf73db-e109-40b2-8484-52749b6d5de3)
+
 
 - Model Roberta
   
@@ -101,7 +102,7 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 - Model Bert
 
-![WhatsApp Image 2024-11-26 at 19 45 14_ccf73a68](https://github.com/user-attachments/assets/f995b5ea-4a86-47a7-bb6a-4e6380b295ee)
+![image](https://github.com/user-attachments/assets/54c5c1c1-3b2f-4182-8887-4825792a8e88)
 
 
 ### Deployment (Optional)
