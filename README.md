@@ -2,6 +2,7 @@
 
 ## Project Description
 Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
+
 Note : Model di bagian Result
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
