@@ -3,7 +3,6 @@
 ## Project Description
 Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
 
-Note : Model di bagian Result
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
 | --- | --- | --- | --- | --- |
@@ -60,7 +59,6 @@ Describe your dataset information here. Provide a screenshot for some of your da
 ### Model Performance
 Describe all results found in your final project experiments, including hyperparameters tuning and architecture modification performances. Put it into table format. Please show pictures (of model accuracy, loss, etc.) for more clarity.
 
-Model : 
 #### 1. Metrics
 Inform your model validation performances, as follows:
 - For classification tasks, use **Precision and Recall**.
