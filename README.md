@@ -114,6 +114,7 @@ Describe and show how you deploy this project (e.g., using Streamlit or Flask), 
 
 ### Business Model Canvas
 Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
+![image](https://github.com/user-attachments/assets/271b9e0f-6709-402a-8274-8ec9421d33ed)
 
 ### Short Video
 Provide a link to your short video, that should includes the project background and how it works.
