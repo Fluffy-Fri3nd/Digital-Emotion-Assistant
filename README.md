@@ -9,7 +9,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | Hasbi Anshari Simbolon| Politeknik Ganesha Medan | hasbianshrismbln1411@gmail.com | [link](www.linkedin.com/in/hasbiansharisimbolon) | Team Lead |
 | Aldona Septiana | Universitas Amikom Purwokerto | aldonaseptiana19@gmail.com | [link]() | Team Member |
 | Satriawan Adinugroho | Universitas Mercu Buana Yogyakarta | satriawan2210@gmail.com | [link]() | Team Member |
-| M. Saifuddin Eka N | Universitas Sebelas Maret| masoodinc1@gmail.com | [link]() | Team Member |
+| Muhammad Saifuddin E N | Universitas Sebelas Maret| masoodinc1@gmail.com | [link](https://www.linkedin.com/in/m-saifuddin/) | Team Member |
 | Amin Ridho A | Politeknik Negeri Sriwijaya | aminridhoa@gmail.com | [link]() | Team Member |
 | Feni Fitriani | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | fenifitriani59@gmail.com | [link]() | Team Member |
 | Aries Fitriawan | Startup Campus, AI Track | aries.f1991@gmail.com | [link](https://www.linkedin.com/in/ariesfitriawan/) | Supervisor |
@@ -105,8 +105,20 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 ![image](https://github.com/user-attachments/assets/54c5c1c1-3b2f-4182-8887-4825792a8e88)
 
 
-### Deployment (Optional)
-Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
+### Deployment
+#### Overview
+This project implements a robust and scalable web application using a modern frontend-backend architecture. The frontend is built with React, providing a dynamic and responsive user interface, while the backend is developed using FastAPI, ensuring high performance and ease of API development.
+
+#### Frontend Deployment 
+For deployment, the React frontend is hosted on Vercel, a platform optimized for modern web development. Vercel simplifies the deployment process with features like automatic builds and easy integration with Git repositories, ensuring fast and efficient delivery of the frontend.
+
+#### Backend Deployment
+The FastAPI backend is deployed on Hugging Face Spaces, a platform tailored for hosting machine learning models and APIs. Hugging Face Spaces allows straightforward deployment by uploading the backend repository, where it automatically manages the environment setup and server execution. This approach ensures that the backend is accessible through stable and secure endpoints.
+
+#### Deployment Link
+[Emocare App](https://emocare-five.vercel.app/)
+[Frontend Sourcecode](https://github.com/Fluffy-Fri3nd/EmoCare.git)
+[Backend Sourcecode]()
 
 ## Supporting Documents
 ### Presentation Deck
@@ -122,9 +134,8 @@ Provide a link to your short video, that should includes the project background 
 
 ## References
 Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
-- Link: https://...
-- Link: https://...
-- Link: https://...
+- Link: https://youtu.be/IeFlfBR1lxw?si=82ilkhn8ipwtdxKs
+- Link: https://youtu.be/0v9ZsleUuEg?si=BhJM1g6yHdjgC6me
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
