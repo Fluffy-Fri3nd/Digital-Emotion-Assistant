@@ -106,6 +106,8 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 
 ### Deployment
+![image](![image](https://github.com/user-attachments/assets/b002fd79-9cf7-4e53-9111-471bbc8272e5))
+
 #### Overview
 This project implements a robust and scalable web application using a modern frontend-backend architecture. The frontend is built with React, providing a dynamic and responsive user interface, while the backend is developed using FastAPI, ensuring high performance and ease of API development.
 
@@ -116,9 +118,9 @@ For deployment, the React frontend is hosted on Vercel, a platform optimized for
 The FastAPI backend is deployed on Hugging Face Spaces, a platform tailored for hosting machine learning models and APIs. Hugging Face Spaces allows straightforward deployment by uploading the backend repository, where it automatically manages the environment setup and server execution. This approach ensures that the backend is accessible through stable and secure endpoints.
 
 #### Deployment Link
-[Emocare App](https://emocare-five.vercel.app/)
-[Frontend Sourcecode](https://github.com/Fluffy-Fri3nd/EmoCare.git)
-[Backend Sourcecode]()
+- [Emocare App](https://emocare-five.vercel.app/)
+- [Frontend Sourcecode](https://github.com/Fluffy-Fri3nd/EmoCare.git)
+- [Backend Sourcecode]()
 
 ## Supporting Documents
 ### Presentation Deck
