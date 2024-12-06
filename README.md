@@ -153,9 +153,23 @@ Provide a link to your short video, that should includes the project background 
 - Link: https://...
 
 ## References
-Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
-- Link: https://youtu.be/IeFlfBR1lxw?si=82ilkhn8ipwtdxKs
-- Link: https://youtu.be/0v9ZsleUuEg?si=BhJM1g6yHdjgC6me
+Here are the key references that support this final project:
+- **GoEmotions Dataset (Kaggle)**  
+  A comprehensive dataset for emotion analysis, used in this project for training emotion detection models.  
+  [GoEmotions Dataset](https://www.kaggle.com/datasets/debarshichanda/goemotions)
+- **React Documentation**  
+  Official documentation to learn and work with React, the frontend framework used in this project.  
+  [React Documentation](https://react.dev/learn)
+- **Hugging Face Hub Documentation**  
+  A platform for sharing machine learning models and datasets. The backend deployment utilizes Hugging Face Spaces.  
+  [Hugging Face Documentation](https://huggingface.co/docs/hub/index)
+- **Project Demo Video 1**  
+  Watch the video demonstration of EmoCare, showcasing its features and functionalities.  
+  [Watch Demo Video](https://youtu.be/IeFlfBR1lxw?si=82ilkhn8ipwtdxKs)
+- **Project Demo Video 2**  
+  An additional video explaining the process and impact of EmoCare on mental health.  
+  [Watch Demo Video](https://youtu.be/0v9ZsleUuEg?si=BhJM1g6yHdjgC6me)
+
 
 ## Additional Comments
 - **Team Collaboration**: This project is the result of a solid team effort with diverse backgrounds, contributing to every stage of development, from data processing to application implementation.
