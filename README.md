@@ -112,7 +112,7 @@ Insert an image regarding your training and evaluation performances (especially 
 
 - Model Roberta
   
- ![WhatsApp Image 2024-11-26 at 19 21 02_f49e05b3](https://github.com/user-attachments/assets/d016ce4b-c0ad-4d7c-b5c9-7465827cebf5)
+ ![image](https://github.com/user-attachments/assets/d016ce4b-c0ad-4d7c-b5c9-7465827cebf5)
 
 ### Testing
 Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
@@ -123,7 +123,8 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 
 ### Deployment
-![image](![image]![image](https://github.com/user-attachments/assets/b291da25-8f8c-43f1-9468-3562be04ef1f))
+![image](https://github.com/user-attachments/assets/0b647a91-39a3-4a7a-8b03-2fd9cc9f1232)
+
 
 #### Overview
 This project implements a robust and scalable web application using a modern frontend-backend architecture. The frontend is built with React, providing a dynamic and responsive user interface, while the backend is developed using FastAPI, ensuring high performance and ease of API development.
