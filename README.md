@@ -120,6 +120,16 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 - Model Bert
 
 ![image](https://github.com/user-attachments/assets/54c5c1c1-3b2f-4182-8887-4825792a8e88)
+![image](https://github.com/user-attachments/assets/15bb1b53-fdf5-4aa4-9d85-6a3358045c6f)
+![image](https://github.com/user-attachments/assets/e10e2c24-2251-4866-ba4a-2e89a04ff95d)
+![image](https://github.com/user-attachments/assets/cb3d95a4-f325-45c9-8247-b35f9f1fedb4)
+![image](https://github.com/user-attachments/assets/26f167a9-7753-4f29-bc8c-137cf36aedf6)
+![image](https://github.com/user-attachments/assets/c5021de5-daf1-4ab4-ba38-4b70e0fafde3)
+![image](https://github.com/user-attachments/assets/20a8b107-b678-493d-ad4e-94d84b22577d)
+![image](https://github.com/user-attachments/assets/8eb26bef-b055-40b7-ba99-7f126c778cbd)
+![image](https://github.com/user-attachments/assets/db823151-d4c5-4e25-90e2-8f828af3cbbc)
+![image](https://github.com/user-attachments/assets/437ea2bb-4c05-4957-add8-985144ced0b1)
+![image](https://github.com/user-attachments/assets/6288081f-05ae-4a59-83f0-a8f1e38a9204)
 
 
 ### Deployment
