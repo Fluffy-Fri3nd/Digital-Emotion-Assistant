@@ -165,7 +165,7 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 
 ## How to Cite
 If you find this project useful, we'd grateful if you cite this repository:
-### - BibTeX
+### BibTeX
 ```bibtex
 @misc{emocare2024,
   author = {Hasbi Anshari Simbolon and Aldona Septiana and Satriawan Adinugroho and Muhammad Saifuddin E N and Amin Ridho A and Feni Fitriani and Aries Fitriawan},
@@ -175,12 +175,12 @@ If you find this project useful, we'd grateful if you cite this repository:
   note = {Accessed: 2024-12-06}
 }
 ```
-### - APA
+### APA
 ```APA
 Simbolon, H. A., Septiana, A., Adinugroho, S., E N, M. S., Ridho A, A., Fitriani, F., & Fitriawan, A. (2024). EmoCare: Digital Emotion Assistant for Mental Health. GitHub repository. https://github.com/Fluffy-Fri3nd/EmoCare
 ```
 
-### - MLA
+### MLA
 ```MLA
 Simbolon, Hasbi Anshari, et al. "EmoCare: Digital Emotion Assistant for Mental Health." GitHub, 2024, https://github.com/Fluffy-Fri3nd/EmoCare.
 ```
