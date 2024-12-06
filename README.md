@@ -163,12 +163,12 @@ Here are the key references that support this final project:
 - **Hugging Face Hub Documentation**  
   A platform for sharing machine learning models and datasets. The backend deployment utilizes Hugging Face Spaces.  
   [Hugging Face Documentation](https://huggingface.co/docs/hub/index)
-- **Project Demo Video 1**  
-  Watch the video demonstration of EmoCare, showcasing its features and functionalities.  
-  [Watch Demo Video](https://youtu.be/IeFlfBR1lxw?si=82ilkhn8ipwtdxKs)
-- **Project Demo Video 2**  
-  An additional video explaining the process and impact of EmoCare on mental health.  
-  [Watch Demo Video](https://youtu.be/0v9ZsleUuEg?si=BhJM1g6yHdjgC6me)
+- **Deploy React Application In Vercel**  
+  Watch the video how to deploy react app to Vercel.  
+  [Watch Video Tutorial](https://youtu.be/IeFlfBR1lxw?si=82ilkhn8ipwtdxKs)
+- **Deploying FastAPI Applications to Hugging Face Spaces**  
+  Watch the video how to deploy fastAPI to Hugging Face.  
+  [Watch Video Tutorial](https://youtu.be/0v9ZsleUuEg?si=BhJM1g6yHdjgC6me)
 
 
 ## Additional Comments
