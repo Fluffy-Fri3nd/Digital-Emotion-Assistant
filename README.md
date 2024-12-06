@@ -10,7 +10,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | Aldona Septiana | Universitas Amikom Purwokerto | aldonaseptiana19@gmail.com | [link]() | Team Member |
 | Satriawan Adinugroho | Universitas Mercu Buana Yogyakarta | satriawan2210@gmail.com | [link]() | Team Member |
 | Muhammad Saifuddin E N | Universitas Sebelas Maret| masoodinc1@gmail.com | [link](https://www.linkedin.com/in/m-saifuddin/) | Team Member |
-| Amin Ridho A | Politeknik Negeri Sriwijaya | aminridhoa@gmail.com | [link]() | Team Member |
+| Amin Ridho A | Politeknik Negeri Sriwijaya | aminridhoa@gmail.com | [link](http://linkedin.com/in/aminridhoalhafidz) | Team Member |
 | Feni Fitriani | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | fenifitriani59@gmail.com | [link]() | Team Member |
 | Aries Fitriawan | Startup Campus, AI Track | aries.f1991@gmail.com | [link](https://www.linkedin.com/in/ariesfitriawan/) | Supervisor |
 
