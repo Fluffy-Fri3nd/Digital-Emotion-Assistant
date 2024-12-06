@@ -158,9 +158,13 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
-1. ...
-2. ...
-3. ...
+## Additional Comments
+
+- **Team Collaboration**: This project is the result of a solid team effort with diverse backgrounds, contributing to every stage of development, from data processing to application implementation.
+- **Challenges**: Handling the diversity of emotional data and developing a dynamic interface were key challenges, but they were successfully overcome through iteration and collaboration.
+- **Mental Health Impact**: EmoCare is expected to help users understand and manage their emotions, supporting overall mental health.
+- **Acknowledgments**: We would like to thank all parties who have supported and provided valuable feedback for the development of this application.
+- **Hope**: We hope EmoCare can be expanded to various contexts, such as education and workplaces, to enhance empathy and communication.
 
 ## How to Cite
 If you find this project useful, we'd grateful if you cite this repository:
