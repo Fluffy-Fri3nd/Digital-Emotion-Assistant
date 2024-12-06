@@ -106,7 +106,7 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 
 ### Deployment
-![image](![image](https://github.com/user-attachments/assets/b002fd79-9cf7-4e53-9111-471bbc8272e5))
+![image](![image]![image](https://github.com/user-attachments/assets/b291da25-8f8c-43f1-9468-3562be04ef1f))
 
 #### Overview
 This project implements a robust and scalable web application using a modern frontend-backend architecture. The frontend is built with React, providing a dynamic and responsive user interface, while the backend is developed using FastAPI, ensuring high performance and ease of API development.
