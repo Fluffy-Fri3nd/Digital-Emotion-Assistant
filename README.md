@@ -152,7 +152,7 @@ The FastAPI backend is deployed on Hugging Face Spaces, a platform tailored for 
 
 ## Supporting Documents
 ### Presentation Deck
-- Link: [Presentation Deck](https://docs.google.com/presentation/d/1podeyZnUNthTiiGFHfMBZm6gUVloEGNF/edit?usp=drive_link&ouid=113800992605900316686&rtpof=true&sd=true)
+- [Presentation Deck](https://docs.google.com/presentation/d/1podeyZnUNthTiiGFHfMBZm6gUVloEGNF/edit?usp=drive_link&ouid=113800992605900316686&rtpof=true&sd=true)
 
 ### Business Model Canvas
 Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
