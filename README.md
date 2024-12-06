@@ -1,7 +1,24 @@
 # EmoCare: Digital Emotion Assistant for Mental Health
 
 ## Project Description
-Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
+The **Emotion Detection** project focuses on developing a web-based application that analyzes and predicts emotions from text input. Using a machine learning model, this application identifies six different emotional states from the text: **Caring**, **Love**, **Gratitude**, **Sadness**, **Fear**, and **Anger**.
+This application features an interactive and visually appealing interface, using a dynamic bar chart to visualize the emotion predictions and offering suggestions based on the detected emotions. The background dynamically adjusts according to the user's mouse position, creating an immersive experience.
+
+### Benefits
+- **Enhanced Emotional Awareness**: Helps users understand the emotions conveyed in their written text, promoting self-reflection and emotional intelligence.
+- **Visual Insights**: The emotion predictions are displayed in a bar chart with probabilities, giving users a clear overview of their emotional state.
+- **Personalized Suggestions**: Provides actionable suggestions based on predicted emotions, guiding users toward positive actions or reflections.
+- **Interactive UI**: The user interface is designed with dynamic background changes and an intuitive layout, making the app fun and easy to use.
+- **Real-time Emotion Analysis**: Predictions are made in real time, giving users immediate feedback on the emotional content of their input.
+
+### Features
+- **Emotion Prediction**: Predicts six types of emotions from text input, including Caring, Love, Gratitude, Sadness, Fear, and Anger.
+- **Bar Chart Visualization**: Uses a **Bar chart** (powered by **Chart.js**) to visually represent the probability of each detected emotion.
+- **Fast and Responsive**: The app processes text and returns emotion predictions within seconds, ensuring quick feedback.
+- **Suggestion Generation**: After emotion predictions, users can receive tailored suggestions based on their detected emotions (e.g., "Feeling grateful? Try expressing your gratitude in writing!").
+- **Dynamic Background**: The background of the app changes in real time based on the user's mouse position, creating a responsive and visually engaging experience.
+- **Text Input Area**: Users can input text (up to 300 characters), and the system will predict the emotions behind it.
+- **Example Input**: A feature to populate the text area with an example input for ease of use.
 
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
